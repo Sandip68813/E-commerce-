@@ -58,7 +58,7 @@ namespace HamroBooks.DataAccess.Data
                     Price = 50,
                     Price50 = 40,
                     Price100 = 35,
-                    CategoryId = 2
+                    CategoryId = 1
                 },
                 new Product
                 {
@@ -84,7 +84,7 @@ namespace HamroBooks.DataAccess.Data
                     Price = 27,
                     Price50 = 25,
                     Price100 = 20,
-                    CategoryId = 2
+                    CategoryId = 3
                 },
                 new Product
                 {
